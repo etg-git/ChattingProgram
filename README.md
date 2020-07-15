@@ -49,7 +49,8 @@
 
 
 
-  **<details><summary>UI</summary>**
+**<details><summary>UI</summary>**
+
 * 로그인화면
 <img src = "image/Login.png">
 
