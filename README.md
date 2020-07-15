@@ -69,4 +69,7 @@
 * 초대목록
 <img src = "image/Invite.png">
 
+* 채팅할때의 모습
+<img src = "image/Chatting.png">
+
   </details>
